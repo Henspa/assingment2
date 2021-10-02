@@ -69,7 +69,7 @@ function App() {
   useEffect(() => {
    const headers = {
      'Accept': 'application/json',
-     'Authorization': 'Bearer etNWBLxZPGPZLkl0YIcM'
+     'Authorization': 'API KEY HERE'
    }
 
    const fetchData = async () => {
